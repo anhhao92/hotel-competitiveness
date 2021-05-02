@@ -1,0 +1,26 @@
+.description p {
+  margin: 0;
+}
+
+.leftContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.leftContainer img {
+  margin: 8px 0;
+}
+
+.topLeftWrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.price {
+  display: flex;
+  justify-content: space-between;
+}
+
+.priceValue {
+  display: flex;
+}
